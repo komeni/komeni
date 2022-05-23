@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @komeni
 - 👀 I’m interested in an internship role
-- 🌱 I’m currently learning Javascript and PHP
+- 🌱 I’m currently learning Javascript and it's library, React.
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me via email hayatullahcr7@gmail.com or whatsaapp +2348093333234
 
