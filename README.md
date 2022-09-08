@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @komeni
-- 👀 I’m interested in an internship role
-- 🌱 I’m currently learning Javascript and it's library, React.
+- 👀 I’m interested in any front end role
+- 🌱 My stack is React
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me via email hayatullahcr7@gmail.com or whatsaapp +2348093333234
+- 📫 Reach me via email hayatullahaminullah@gmail.com or whatsaapp +2348093333234
 
 <!---
 komeni/komeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
