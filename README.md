@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @komeni
+- 👋 Hi, I’m Aminullah Hayatullah
+
 - 👀 I’m interested in any front end role
 - 🌱 My stack is React
 - 💞️ I’m looking to collaborate on interesting projects
